@@ -44,8 +44,6 @@ If no earlier value exists, or the earlier flow is zero, the ROC is recorded as 
 
 ## **Use of Historical P90 Values**
 - Each gauge’s latest timestamp is converted to a **day of year**.
-- This day number is used to match and merge the correct value from:
-
-`data/historical_p90.csv` to compare current flow to long-term high-flow thresholds.
+- This day number is used to match and merge the correct value from`data/historical_p90.csv` to compare current flow to long-term high-flow thresholds.
 
 ---

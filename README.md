@@ -13,6 +13,7 @@ The dashboard provides a clearer, more accessible representation of short-term c
   * Brown: stable/decreasing (≤ 0%)
   * Blue: moderately rising (0–25%)
   * Red: sharp rise (> 25%)
+  * Gray: missing data
 * **Gauge detail pages** with time-series graphs, ROC classification, and notes
 * **Supports local time zones**
 
